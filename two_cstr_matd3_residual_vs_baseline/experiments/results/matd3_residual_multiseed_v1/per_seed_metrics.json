@@ -1,0 +1,62 @@
+[
+  {
+    "variant": "Original MATD3",
+    "seed": 42,
+    "mean_return": -2.3823749392418185,
+    "iae_mean_mol_m3": 0.5257898884961976,
+    "settling_time_mean_s": 6.6,
+    "peak_abs_error_mol_m3": 1.9492410721874711,
+    "steady_error_std_mol_m3": 0.047103181483966604,
+    "action_variation_normalized": 0.03593898776212588
+  },
+  {
+    "variant": "Original MATD3",
+    "seed": 123,
+    "mean_return": -2.8690778782550796,
+    "iae_mean_mol_m3": 0.7028935098110952,
+    "settling_time_mean_s": 10.166666666666666,
+    "peak_abs_error_mol_m3": 2.0065698226441744,
+    "steady_error_std_mol_m3": 0.07200384416528713,
+    "action_variation_normalized": 0.0534090887072382
+  },
+  {
+    "variant": "Original MATD3",
+    "seed": 2024,
+    "mean_return": -8.962228611482278,
+    "iae_mean_mol_m3": 1.4361724722856233,
+    "settling_time_mean_s": 90.0,
+    "peak_abs_error_mol_m3": 1.8571933671451926,
+    "steady_error_std_mol_m3": 0.06059388824283855,
+    "action_variation_normalized": 0.03639883463554405
+  },
+  {
+    "variant": "Residual MATD3",
+    "seed": 42,
+    "mean_return": -2.0313886163751333,
+    "iae_mean_mol_m3": 0.4296222868962555,
+    "settling_time_mean_s": 4.35,
+    "peak_abs_error_mol_m3": 1.6826548220698783,
+    "steady_error_std_mol_m3": 0.030447937232614776,
+    "action_variation_normalized": 0.032811275050930504
+  },
+  {
+    "variant": "Residual MATD3",
+    "seed": 123,
+    "mean_return": -2.438728634908651,
+    "iae_mean_mol_m3": 0.5723117729469355,
+    "settling_time_mean_s": 9.4,
+    "peak_abs_error_mol_m3": 2.0534068292376144,
+    "steady_error_std_mol_m3": 0.05430137411791006,
+    "action_variation_normalized": 0.050646380234887704
+  },
+  {
+    "variant": "Residual MATD3",
+    "seed": 2024,
+    "mean_return": -6.801496905900991,
+    "iae_mean_mol_m3": 1.1404242684661838,
+    "settling_time_mean_s": 69.96666666666667,
+    "peak_abs_error_mol_m3": 1.9999200139697129,
+    "steady_error_std_mol_m3": 0.046251133915751315,
+    "action_variation_normalized": 0.03082895185706431
+  }
+]

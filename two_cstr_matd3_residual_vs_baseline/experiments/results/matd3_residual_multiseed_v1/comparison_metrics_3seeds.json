@@ -1,0 +1,32 @@
+[
+  {
+    "variant": "Original MATD3",
+    "mean_return_mean": -4.737893809659725,
+    "iae_mean_mol_m3_mean": 0.8882852901976387,
+    "settling_time_mean_s_mean": 35.58888888888889,
+    "peak_abs_error_mol_m3_mean": 1.9376680873256127,
+    "steady_error_std_mol_m3_mean": 0.05990030463069743,
+    "action_variation_normalized_mean": 0.04191563703496937,
+    "mean_return_std": 3.666466054135497,
+    "iae_mean_mol_m3_std": 0.4826765960691972,
+    "settling_time_mean_s_std": 47.15513797071362,
+    "peak_abs_error_mol_m3_std": 0.07535769269503564,
+    "steady_error_std_mol_m3_std": 0.012464812239360055,
+    "action_variation_normalized_std": 0.009956276326711323
+  },
+  {
+    "variant": "Residual MATD3",
+    "mean_return_mean": -3.757204719061592,
+    "iae_mean_mol_m3_mean": 0.7141194427697917,
+    "settling_time_mean_s_mean": 27.905555555555555,
+    "peak_abs_error_mol_m3_mean": 1.9119938884257353,
+    "steady_error_std_mol_m3_mean": 0.04366681508875872,
+    "action_variation_normalized_mean": 0.03809553571429417,
+    "mean_return_std": 2.6442896327394396,
+    "iae_mean_mol_m3_std": 0.37602117715146754,
+    "settling_time_mean_s_std": 36.51340063491657,
+    "peak_abs_error_mol_m3_std": 0.20040587658451475,
+    "steady_error_std_mol_m3_std": 0.012134893516626041,
+    "action_variation_normalized_std": 0.01091444799091184
+  }
+]
