@@ -1,0 +1,11 @@
+{
+  "algorithm": "SAC",
+  "seed": 11,
+  "timesteps": 150000,
+  "mean_return": -5.620124865210045,
+  "iae_mean_mol_m3": 1.065010230492356,
+  "settling_time_mean_s": 37.916666666666664,
+  "peak_abs_error_mol_m3": 2.19194104334796,
+  "steady_error_std_mol_m3": 0.11869035951166067,
+  "action_variation_normalized": 0.06809859423300878
+}
