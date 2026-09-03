@@ -1,0 +1,30 @@
+{
+  "algorithm": "PPO",
+  "timesteps": 150000,
+  "eval_episodes": 30,
+  "target_schedule": [
+    [
+      96.0,
+      94.5
+    ],
+    [
+      94.0,
+      92.0
+    ],
+    [
+      95.0,
+      93.0
+    ]
+  ],
+  "c2_start_offset_s": 10,
+  "recycle_start_offset_s": 20,
+  "horizon_s": 180,
+  "initial_concentration_noise": 0.8,
+  "initial_temperature_noise": 1.5,
+  "mean_return": -1.5175123686145424,
+  "std_return": 0.06625798299726077,
+  "success_rate_final_tolerance_2": 1.0,
+  "mean_final_C1": 94.9635525221728,
+  "mean_final_C2": 93.23784901494513,
+  "max_handoff_error": 0.0
+}
