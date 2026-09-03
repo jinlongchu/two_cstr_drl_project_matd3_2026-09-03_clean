@@ -1,0 +1,46 @@
+{
+  "algorithm": "PPO",
+  "timesteps": 150000,
+  "eval_episodes": 30,
+  "target_schedule": [
+    [
+      96.0,
+      93.0
+    ],
+    [
+      86.0,
+      82.0
+    ],
+    [
+      90.0,
+      86.0
+    ]
+  ],
+  "c2_start_offset_s": 10,
+  "recycle_start_offset_s": 20,
+  "horizon_s": 180,
+  "initial_concentration_noise": 0.8,
+  "initial_temperature_noise": 1.5,
+  "cooling_valve_tau_s": 5.0,
+  "feed_disturbance": {
+    "rho": 0.98,
+    "concentration_std": 0.08,
+    "temperature_std": 0.12,
+    "concentration_bound": 0.8,
+    "temperature_bound": 1.2
+  },
+  "sensor_noise_std": {
+    "concentration": 0.05,
+    "temperature": 0.12
+  },
+  "actuator_noise": {
+    "flow_fraction": 0.015,
+    "cooling_temperature_std": 0.2
+  },
+  "mean_return": -416.8228108890371,
+  "std_return": 21.21798384581057,
+  "success_rate_final_tolerance_2": 1.0,
+  "mean_final_C1": 90.37798559871878,
+  "mean_final_C2": 86.77898708625823,
+  "max_handoff_error": 0.0
+}
