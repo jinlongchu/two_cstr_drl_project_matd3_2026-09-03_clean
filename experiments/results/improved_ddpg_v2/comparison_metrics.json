@@ -1,0 +1,42 @@
+{
+  "PPO": {
+    "mean_return": -4.463700369832077,
+    "iae_mean_mol_m3": 0.71254344196532,
+    "settling_time_mean_s": 29.216666666666665,
+    "peak_abs_error_mol_m3": 2.723659554918861,
+    "steady_error_std_mol_m3": 0.04223311393662927,
+    "action_variation_normalized": 0.020976776003074404
+  },
+  "SAC": {
+    "mean_return": -8.433951676655349,
+    "iae_mean_mol_m3": 1.270768068088297,
+    "settling_time_mean_s": 48.4,
+    "peak_abs_error_mol_m3": 2.092626782900687,
+    "steady_error_std_mol_m3": 0.3899780008097934,
+    "action_variation_normalized": 0.04747476193995069
+  },
+  "DDPG": {
+    "mean_return": -2.0629217510659825,
+    "iae_mean_mol_m3": 0.5029678206056689,
+    "settling_time_mean_s": 7.416666666666667,
+    "peak_abs_error_mol_m3": 1.9810462158875046,
+    "steady_error_std_mol_m3": 0.07253599535056936,
+    "action_variation_normalized": 0.045213904503797524
+  },
+  "TD3": {
+    "mean_return": -2.7341698093162496,
+    "iae_mean_mol_m3": 0.5916434118390643,
+    "settling_time_mean_s": 7.7,
+    "peak_abs_error_mol_m3": 2.018115527201482,
+    "steady_error_std_mol_m3": 0.05062312566049014,
+    "action_variation_normalized": 0.018535926145979688
+  },
+  "Improved DDPG": {
+    "mean_return": -4.102918969718555,
+    "iae_mean_mol_m3": 0.8687267621485747,
+    "settling_time_mean_s": 8.716666666666667,
+    "peak_abs_error_mol_m3": 1.5127741654179767,
+    "steady_error_std_mol_m3": 0.0839852698875294,
+    "action_variation_normalized": 0.024076435527159275
+  }
+}
