@@ -1,0 +1,18 @@
+{
+  "algorithm": "PPO",
+  "timesteps": 100000,
+  "eval_episodes": 30,
+  "target": {
+    "C1": 94.0,
+    "C2": 92.0
+  },
+  "c2_start_offset_s": 10,
+  "recycle_start_offset_s": 20,
+  "horizon_s": 120,
+  "mean_return": -2.633934076134352,
+  "std_return": 0.0,
+  "success_rate_final_tolerance_2": 1.0,
+  "mean_final_C1": 94.03249479233267,
+  "mean_final_C2": 91.64782497596086,
+  "max_handoff_error": 0.0
+}
