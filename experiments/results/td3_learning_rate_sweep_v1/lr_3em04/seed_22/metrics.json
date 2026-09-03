@@ -1,0 +1,13 @@
+{
+  "algorithm": "TD3",
+  "seed": 22,
+  "timesteps": 150000,
+  "mean_return": -2.3418299385220016,
+  "iae_mean_mol_m3": 0.5762673797006334,
+  "settling_time_mean_s": 11.266666666666667,
+  "peak_abs_error_mol_m3": 2.051464040607927,
+  "steady_error_std_mol_m3": 0.06762242793253928,
+  "action_variation_normalized": 0.0260090818100887,
+  "learning_rate": 0.0003,
+  "reused_baseline": true
+}
