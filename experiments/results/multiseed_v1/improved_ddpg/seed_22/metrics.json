@@ -1,0 +1,11 @@
+{
+  "algorithm": "Improved DDPG",
+  "seed": 22,
+  "timesteps": 150000,
+  "mean_return": -2.6055271423165736,
+  "iae_mean_mol_m3": 0.6706274892981614,
+  "settling_time_mean_s": 6.083333333333333,
+  "peak_abs_error_mol_m3": 1.4634607068064203,
+  "steady_error_std_mol_m3": 0.07199662650488281,
+  "action_variation_normalized": 0.023586667713826316
+}
