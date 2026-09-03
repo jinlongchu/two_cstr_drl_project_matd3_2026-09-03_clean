@@ -1,0 +1,8 @@
+{
+  "mean_return": -2.438728634908651,
+  "iae_mean_mol_m3": 0.5723117729469355,
+  "settling_time_mean_s": 9.4,
+  "peak_abs_error_mol_m3": 2.0534068292376144,
+  "steady_error_std_mol_m3": 0.05430137411791006,
+  "action_variation_normalized": 0.050646380234887704
+}
