@@ -1,0 +1,11 @@
+{
+  "algorithm": "PPO",
+  "seed": 11,
+  "timesteps": 150000,
+  "mean_return": -2.7656361354372754,
+  "iae_mean_mol_m3": 0.6312754595462101,
+  "settling_time_mean_s": 8.116666666666667,
+  "peak_abs_error_mol_m3": 2.527397264894474,
+  "steady_error_std_mol_m3": 0.036407486691530336,
+  "action_variation_normalized": 0.02065020646275085
+}
