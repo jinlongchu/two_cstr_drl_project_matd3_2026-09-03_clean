@@ -1,4 +1,3 @@
-[Uploading README_matd3_residual_comparison.md…]()
 # MATD3 residual-vs-baseline package
 
 This package contains the two-CSTR distributed-control environment, the original MATD3 baseline, and the residual MATD3 improvement.
