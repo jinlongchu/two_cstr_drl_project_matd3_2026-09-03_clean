@@ -1,0 +1,12 @@
+{
+  "algorithm": "PPO",
+  "timesteps": 100000,
+  "eval_episodes": 30,
+  "target": {
+    "C2": 92.0,
+    "T2": 306.0
+  },
+  "mean_return": -2.125034968765197,
+  "std_return": 8.881784197001252e-16,
+  "success_rate": 1.0
+}
