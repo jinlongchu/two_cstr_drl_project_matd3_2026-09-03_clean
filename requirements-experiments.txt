@@ -1,0 +1,7 @@
+numpy
+matplotlib
+gymnasium
+stable-baselines3==2.7.0
+torch
+pettingzoo>=1.24.3
+agilerl
